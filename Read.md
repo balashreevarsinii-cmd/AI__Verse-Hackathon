@@ -93,6 +93,7 @@ This design allows real-world deployment without ethical or legal risk.
 pip install -r requirements.txt
 streamlit run app.py
 
+## User End
 Hb: 11.5 g/dL
 Cholesterol: 215 mg/dL
 WBC: 6200 cells/mcL
