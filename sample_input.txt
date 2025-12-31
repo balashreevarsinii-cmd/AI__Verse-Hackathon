@@ -1,0 +1,3 @@
+Hb: 11.4 g/dL
+Cholesterol: 215 mg/dL
+WBC: 6500 cells/mcL
